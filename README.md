@@ -1,0 +1,2 @@
+# Nonparametric-Estimation-
+In the strong effort to free discriminatory analysis from tight assumptions by applying nonparametric estimates, Fix &amp; Hodges (1951) theoretically proved that with the large enough dataset, the nonparametric estimates are consistent (consistency in the sense of decision functions) with likelihood ratio procedure (procedures, as the author said, are believed to have ideal properties concerning control of possibility of misclassification). 
